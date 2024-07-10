@@ -1,0 +1,62 @@
+main {
+    display: flex;
+}
+img{
+    width: 250px;
+}
+header {
+    font-family: "Poppins", serif;
+    font-size: 21px;
+    text-align: center;
+    color:rgb(100, 72, 126);
+}
+
+#laboral {
+    border: solid 2px rgba(128, 128, 128, 0.439);
+    background-size: contain;
+    background-color: rgba(250, 235, 215, 0.282);
+    margin: 10px;
+    padding: 15px;
+}
+#academic {
+    border: solid 2px rgba(128, 128, 128, 0.439);
+    background-size: contain;
+    background-color: rgba(159, 234, 234, 0.309);
+    margin: 10px;
+    padding: 15px;
+}
+
+#tecnicas{
+    border: solid 2px rgba(128, 128, 128, 0.439);
+    background-size: contain;
+    background-color: rgba(180, 234, 159, 0.431);
+    margin: 10px;
+    padding: 15px;
+    font-family: "Poppins", serif;
+}
+#contacto{
+    border: solid 2px rgba(128, 128, 128, 0.439);
+    background-size: contain;
+    background-color: rgba(234, 159, 209, 0.378);
+    margin: 10px;
+    padding: 15px;
+    font-family: "Poppins", serif;
+}
+h2 {
+    color:rgba(137, 43, 226, 0.66);
+    font-family: "Poppins", serif;
+}
+
+h3{
+    font-family: "Poppins", serif;
+}
+
+h4 {
+    color:black;
+    font-family: "Poppins", serif;
+}
+
+p {
+    color:gray;
+    font-family: "Poppins", serif;
+}
